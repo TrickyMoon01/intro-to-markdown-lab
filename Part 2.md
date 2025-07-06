@@ -5,12 +5,6 @@ A good sandwich requires 3 main ingredients. The 3 main components are bread, pr
 
 ## Ingredients
 
-<!-- ```javascript
-const functionName = (params) => {
-  // code to be executed
-}
-``` -->
-
 * **Bread**
     * This can be potato, whole wheat, white, sourdough, any bread of your choice.
 * **Beef, Ham, or Turkey**
